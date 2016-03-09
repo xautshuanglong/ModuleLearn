@@ -1,0 +1,6 @@
+{
+  "authpass" : "shuanglongredis",
+  "host" : "10.1.10.146",
+  "port" : "6379",
+  "db" : 0
+}
